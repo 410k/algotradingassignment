@@ -1,0 +1,13 @@
+!pip install alpha_vantage
+!pip install --upgrade mplfinance
+import os
+import pandas as pd
+from decimal import *
+import numpy as np
+import plotly.graph_objects as go
+import plotly.express as px
+from plotly import subplots
+from datetime import datetime
+from matplotlib import pyplot  as plt
+import mplfinance as mpf
+

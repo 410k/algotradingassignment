@@ -5,3 +5,4 @@ steps to run:
 3. open notebook 
 4. select Github
 5. paste the link
+6. run all
